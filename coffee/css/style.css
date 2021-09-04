@@ -1,0 +1,59 @@
+.navbar {
+    background-image: linear-gradient(#523A28, #FBE5C8);
+}
+
+.nav-item a {
+    color: white;
+}
+
+.nav-item a:hover {
+    color: #512B28;
+    text-decoration: underline;
+}
+
+header {
+    opacity: 0.9;
+}
+
+.logo {
+    color: #512B28;
+    font-family: Lobster;
+}
+
+.cat {
+    background-color: #C38370;
+}
+
+h2,
+i {
+    font-family: Courgette;
+    color: #9A5F39;
+}
+
+footer {
+    background-image: linear-gradient(#FBE5C8, #523A28);
+}
+
+.footer-paragraph {
+    font-family: Open Sans Condensed;
+}
+
+.footer-header {
+    color: #512B28;
+}
+
+.carousel-inner {
+    opacity: 0.8;
+}
+
+span {
+    color: #512B28;
+}
+
+p {
+    font-family: Oleo Script;
+}
+
+.dri {
+    color: #512B28;
+}
